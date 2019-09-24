@@ -55,6 +55,16 @@ body > header > h1 {
    line-height: 2em;
    text-align: center;
 }
+body > h3 {
+   background-color: rgb(131, 97, 45);
+   color: rgb(186, 186, 156);
+   font-family: Champagne, cursive;   
+   font-size: 2em;
+   font-weight: normal;   
+   letter-spacing: 0.1em;   
+   line-height: 2em;
+   text-align: center;
+}
 
 
 /* Horizontal Navigation List Styles */
